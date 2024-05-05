@@ -25,6 +25,7 @@ const bannerCardsList = [
     padding: 'pd',
   },
 ]
+console.log('hii')
 
 const App = () => (
   <div className="container">
